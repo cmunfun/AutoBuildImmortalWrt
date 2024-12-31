@@ -4,7 +4,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/cmunfun/AutoBuildImmortalWrt.svg?style=flat&logo=appveyor&label=Forks&logo=github) [![Github](https://img.shields.io/badge/RELEASE:AutoBuildImmortalWrt-123456?logo=github&logoColor=fff&labelColor=green&style=flat)](https://github.com/cmunfun/AutoBuildImmortalWrt/releases)
 
 ## 🤔 这是什么？
-[操作步骤](README_CN.md) | 简介 <br>
+[操作步骤](README.md) | 简介 <br>
 它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt
 > 1、支持自定义固件大小 默认1GB <br>
 > 2、支持预安装docker（可选）<br>
